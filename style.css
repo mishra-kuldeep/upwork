@@ -845,6 +845,10 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 
 .footer-sec .footer-wrap .footer-menu ul li:first-child{ width: 53%; }
 
+#top{ opacity: 0; transition: 0.5s ease-in-out; }
+
+#top.show{ opacity: 1; }
+
 }
 
 @media(max-width:479px){ 
