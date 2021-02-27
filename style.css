@@ -713,8 +713,8 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 
  .footer-sec .up{ 
   position: fixed;
-  bottom: 74px;
-  right: 15%;
+  bottom: 108px;
+  right: 8%;
 }
 
 .footer-sec .footer-wrap{ flex-wrap: wrap; justify-content: center; }
