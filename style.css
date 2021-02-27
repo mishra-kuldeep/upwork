@@ -383,6 +383,8 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 
   .folder-list ul li a  span{ display: inline-block; font-size: 28px; color: #fff; }
 
+  .massage-sec{ margin-bottom: 72px; }
+
   .massage-sec .massage-cont{ 
     background: #fff;
     border: 1px solid #9c8d7c;
@@ -850,6 +852,10 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 .massage-sec .image-wrap{ 
   width: 165px;
   height: 165px;
+}
+
+.massage-sec {
+  margin-bottom: 50px;
 }
 
 }
